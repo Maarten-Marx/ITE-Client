@@ -26,7 +26,7 @@ public:
         report << "\n-----------[ WEATHER REPORT ]-----------\n\n";
         report << "\tTemperature:\t\t" << _temperature << "\t*C" << "\n";
         report << "\tPressure:\t\t\t" << _pressure << "\tPa" << "\n";
-        report << "\tLight level:\t\t" << _lightLevel << " \tLux" << "\n";
+        report << "\tLight level:\t\t" << _lightLevel << "\tLux" << "\n";
         report << "\n----------------------------------------\n";
 
         // Output generated string
